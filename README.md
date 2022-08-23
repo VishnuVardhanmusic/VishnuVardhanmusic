@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishnuVardhanmusic
 - 👀 I’m interested in Coding, Web Dev, App Dev
-- 🌱 I’m currently learning PHP, Flutter
+- 🌱 I’m currently learning Full stack, Speech Processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
