@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VishnuVardhanmusic
 - 👀 I’m interested in Coding, Web Dev, App Dev
-- 🌱 I’m currently learning Blockchain 
--     Latest Project accomplished which deals with Crypto Currency --> https://vvcrypto.netlify.app/
+- 🌱 I’m currently learning Blockchain. Developed an app which deals with Crypto Currency --> https://vvcrypto.netlify.app/
 - 💞️ I’m looking to get hired as a Software Engineer
 - 📫 How to reach me --> https://portfoliovishnuyadoji.netlify.app/
 
